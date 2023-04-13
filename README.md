@@ -1,25 +1,25 @@
 # Vorbereitungsthemen für Fachinformatiker Systemintegration
 
 ## Netzwerk/Betriebssysteme
-- [ ] Bootvorgang von Windows
-- [ ] Multitasking Multithreading
-- [ ] Multi-User BS
+- [x] Bootvorgang von Windows
+- [x] Multitasking Multithreading
+- [x] Multi-User BS
 
 ## Netzwerkdienste
-- [ ] DNS (Hierarchischer Aufbau, TLD, Zonendeligierung)
-- [ ] Active Directory (Arbeitsgruppe, Domäne)
-- [ ] DHCP
-- [ ] Netzwerkmanagement (vgl. SNMP)
+- [x] DNS (Hierarchischer Aufbau, TLD, Zonendeligierung)
+- [x] Active Directory (Arbeitsgruppe, Domäne)
+- [x] DHCP
+- [x] Netzwerkmanagement (vgl. SNMP)
 
 ## Netzwerktopologie/ Verkabelung
-- [ ] OSI (vs. TCP/IP-Modell)
-- [ ] Strukturierte Verkabelung (Primär-/ Sekundär-/ Tertiär-Verkabelung, Verteilerebenen)
-- [ ] VLAN (inkl. Tagging)
-- [ ] Kabeltypen und Unterscheidungen (inkl. Glasfaser)
-- [ ] Koppelelemente (Hub, Switch, Router, Proxy)
-- [ ] NAT/ PAT, Port-Forwarding/ virtueller Hot
-- [ ] DMZ (einstufig/ zweistufig) (vgl. Firewall)
-- [ ] Backuplösungen (SAN)
+- [x] OSI (vs. TCP/IP-Modell)
+- [x] Strukturierte Verkabelung (Primär-/ Sekundär-/ Tertiär-Verkabelung, Verteilerebenen)
+- [x] VLAN (inkl. Tagging)
+- [x] Kabeltypen und Unterscheidungen (inkl. Glasfaser)
+- [x] Koppelelemente (Hub, Switch, Router, Proxy)
+- [x] NAT/ PAT, Port-Forwarding/ virtueller Hot
+- [x] DMZ (einstufig/ zweistufig) (vgl. Firewall)
+- [x] Backuplösungen (SAN)
 
 ## Protokolle
 - [ ] Ethernet, CSMA/CD – CSMA/CA
