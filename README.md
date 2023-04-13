@@ -1,4 +1,4 @@
-# Vorbereitungsthemen für Fachinformatiker Systemintegration
+# Vorbereitungsthemen für Fachinformatiker Abschlussprüfung
 
 ## Netzwerk/Betriebssysteme
 - [x] Bootvorgang von Windows
